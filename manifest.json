@@ -1,0 +1,14 @@
+{
+    "name": "Jack Foster",
+    "short_name": "Jack Foster",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_colour": "#FFE9D2",
+    "theme_color": "#FFE1C4",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/img/github.png"
+        }
+    ]
+}
