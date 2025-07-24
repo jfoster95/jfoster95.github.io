@@ -8,7 +8,9 @@
     "orientation": "portrait-primary",
     "icons": [
         {
-            "src": "/img/github.png"
+            "src": "/img/github.png",
+            "type": "image/png",
+            "sizes": "500x500"
         }
     ]
 }
